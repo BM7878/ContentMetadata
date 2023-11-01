@@ -33,6 +33,22 @@ for fp in fps2:
 
     fn = os.path.join("blog-posts", fileName[:-3] + ".json")
 
+    metadata["dateOfPublication"] = metadata["date"]
+    metadata["dateOfLastModification"] = metadata["date"]
+    metadata.pop("date")
+
+    metadata["categories"] = [metadata["category"]]
+    metadata.pop("category")
+
+    metadata["tags"] = [tag.lower() for tag in metadata["tags"]]
+
+    metadata["previewImages"] = []
+
+    if "thumbnailImage" in metadata:
+        metadata["previewImages"].append({"type": "thumbnail", "uri": metadata["thumbnailImage"]})
+        metadata.pop("thumbnailImage")
+
+
     with open(fn, "w", encoding="utf-8") as fo:
         json.dump(metadata, fo, indent=4)
 
