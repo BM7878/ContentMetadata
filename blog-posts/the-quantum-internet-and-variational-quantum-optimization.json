@@ -1,0 +1,25 @@
+{
+    "title": "The quantum internet and variational quantum optimization",
+    "authors": [
+        {
+            "name": "Brian Doolittle",
+            "nameSuffix": "(Physics PhD Candidate at UIUC)"
+        }
+    ],
+    "tags": [
+        "quantum networks",
+        "variational quantum optimization"
+    ],
+    "description": "We discuss how hybrid algorithms can help the design of quantum communication networks. To demonstrate, we share recent results from a collaboration between Xanadu and the University of Illinois at Urbana-Champaign, in which we show that variational quantum optimization can find maximally nonlocal correlations in noisy quantum networks.",
+    "dateOfPublication": "2022-10-25 00:00:00-04:00",
+    "dateOfLastModification": "2022-10-25 00:00:00-04:00",
+    "categories": [
+        "qml"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./quantum-internet.png"
+        }
+    ]
+}

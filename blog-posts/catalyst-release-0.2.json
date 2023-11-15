@@ -1,0 +1,25 @@
+{
+    "title": "Catalyst v0.2 released",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "catalyst",
+        "pennylane"
+    ],
+    "description": "Catalyst v0.2 is out, with direct JAX integration, Amazon Braket support, and a plethora of improvements.",
+    "dateOfPublication": "2023-07-17 09:00:00-05:00",
+    "dateOfLastModification": "2023-07-17 09:00:00-05:00",
+    "categories": [
+        "releases"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./catalyst-0.2.png"
+        }
+    ]
+}

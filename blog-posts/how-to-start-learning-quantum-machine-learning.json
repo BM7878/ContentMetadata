@@ -1,0 +1,26 @@
+{
+    "title": "How to start learning quantum machine learning",
+    "authors": [
+        {
+            "name": "Catalina Albornoz",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "qml",
+        "quantum circuits",
+        "pennylane"
+    ],
+    "description": "If machine learning is interesting, quantum machine learning (QML) is twice as interesting. It\u2019s incredible that you can combine these two fields into one, and it is an area that has seen huge interest and growth in the past few years. In this blog post we will highlight some \u2026",
+    "dateOfPublication": "2021-10-13 09:00:00-04:00",
+    "dateOfLastModification": "2021-10-13 09:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./how-to-qml.png"
+        }
+    ]
+}

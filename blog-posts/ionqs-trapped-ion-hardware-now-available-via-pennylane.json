@@ -1,0 +1,28 @@
+{
+    "title": "IonQ\u2019s trapped ion hardware now available via PennyLane",
+    "authors": [
+        {
+            "name": "Nathan Killoran",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "aws",
+        "pennylane",
+        "hardware",
+        "plugins",
+        "ionq"
+    ],
+    "description": "We are excited to announce that PennyLane now natively supports quantum computing devices provided by IonQ! \ud83c\udf89\ud83c\udf7e IonQ is the leading provider of quantum computers based on trapped ions. With long coherence times and all-to-all connectivity, trapped ions make a great hardware substrate for testing complex quantum computing algorithms, like those ...",
+    "dateOfPublication": "2021-04-20 06:00:00-04:00",
+    "dateOfLastModification": "2021-04-20 06:00:00-04:00",
+    "categories": [
+        "plugins"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./ionq_logo.png"
+        }
+    ]
+}

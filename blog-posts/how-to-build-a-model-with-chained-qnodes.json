@@ -1,0 +1,27 @@
+{
+    "title": "How to build a model with chained QNodes",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "gradients",
+        "autograd",
+        "qml",
+        "pennylane"
+    ],
+    "description": "In PennyLane, we can easily construct VQE and QAOA-like models. However, the flexibility of PennyLane allows much more interesting models to be constructed. In this how-to, we\u2019ll show you how to chain two QNodes together.",
+    "dateOfPublication": "2021-04-15 13:23:00-04:00",
+    "dateOfLastModification": "2021-04-15 13:23:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./hybrid.png"
+        }
+    ]
+}

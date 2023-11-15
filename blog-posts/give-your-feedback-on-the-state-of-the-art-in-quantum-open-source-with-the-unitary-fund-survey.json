@@ -1,0 +1,25 @@
+{
+    "title": "Give your feedback on the state of the art in quantum open source with the Unitary Fund Survey",
+    "authors": [
+        {
+            "name": "Nathan Shammah",
+            "nameSuffix": "(Unitary Fund)"
+        }
+    ],
+    "tags": [
+        "community",
+        "unitary fund"
+    ],
+    "description": "Unitary Fund would like to invite the PennyLane community to take the Quantum Open Source Software (QOSS) Survey. Help us collect a dataset representative of everyone who codes for quantum technologies, to better serve users of the quantum computing ecosystem.",
+    "dateOfPublication": "2022-09-07 00:00:00-04:00",
+    "dateOfLastModification": "2022-09-07 00:00:00-04:00",
+    "categories": [
+        "announcements"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./qoss.png"
+        }
+    ]
+}

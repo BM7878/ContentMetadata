@@ -1,0 +1,28 @@
+{
+    "title": "QHack 2023 Coding Challenges Metastory",
+    "authors": [
+        {
+            "name": "David Wakeham",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "qhack",
+        "pennylane",
+        "coding challenges",
+        "swag",
+        "community"
+    ],
+    "description": "Quantum coding challenges are back for QHack 2023, and they're more exciting than ever. This year, you can help two intrepid heroes save the day in a galaxy-wide romp featuring lazey coworkers, photocopiers, timbits, and evil spin chains. Read on to learn more!",
+    "dateOfPublication": "2023-02-16 00:00:00-05:00",
+    "dateOfLastModification": "2023-02-16 00:00:00-05:00",
+    "categories": [
+        "qhack"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./qhack_2023_story_thumbnail.jpg"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Error mitigation with Mitiq and PennyLane",
+    "authors": [
+        {
+            "name": "Mitiq and PennyLane teams",
+            "nameSuffix": ""
+        }
+    ],
+    "tags": [
+        "hardware",
+        "mitiq",
+        "pennylane",
+        "transforms",
+        "noise"
+    ],
+    "description": "Announcing PennyLane and Mitiq integration for error mitigation of noisy circuits",
+    "dateOfPublication": "2021-11-29 14:00:00-05:00",
+    "dateOfLastModification": "2021-11-29 14:00:00-05:00",
+    "categories": [
+        "announcements"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./pl_mitiq.png"
+        }
+    ]
+}

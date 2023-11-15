@@ -1,0 +1,25 @@
+{
+    "title": "PennyLane v0.16 released",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "release"
+    ],
+    "description": "We\u2019re excited to announce PennyLane v0.16. This release comes with many new modules, features, and improvements. Some highlights are the new Fourier and kernels modules, resource estimation, new transforms, and new operations.",
+    "dateOfPublication": "2021-06-22 00:00:00-04:00",
+    "dateOfLastModification": "2021-06-22 00:00:00-04:00",
+    "categories": [
+        "releases"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./fourier.png"
+        }
+    ]
+}

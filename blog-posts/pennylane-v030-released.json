@@ -1,0 +1,29 @@
+{
+    "title": "PennyLane v0.30 released",
+    "authors": [
+        {
+            "name": "Isaac De Vlugt",
+            "nameSuffix": "(Xanadu)"
+        },
+        {
+            "name": "Thomas Bromley",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "release"
+    ],
+    "description": "PennyLane v0.30 is out, with features including pulse programming on hardware, the quantum singular value transformation, an update to QNode returns, new devices and capabilities, and more.",
+    "dateOfPublication": "2023-05-03 00:00:00-05:00",
+    "dateOfLastModification": "2023-05-03 00:00:00-05:00",
+    "categories": [
+        "releases"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./v0.30.png"
+        }
+    ]
+}

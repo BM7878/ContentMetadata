@@ -1,0 +1,29 @@
+{
+    "title": "PennyLane Code Together Wrap Up",
+    "authors": [
+        {
+            "name": "Catalina Albornoz",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "code together",
+        "pennylane",
+        "swag",
+        "hacking",
+        "community calls",
+        "community"
+    ],
+    "description": "Wrapping up PennyLane: Code Together \ud83d\ude4c\ud83d\ude4c What a tight race it was! The contributors to Code Together were so excited about solving the issues that they raced head-to-head to the finish line to be the first to get their pull request merged. Some even managed to solve several issues. Something else \u2026",
+    "dateOfPublication": "2021-08-31 11:00:00-04:00",
+    "dateOfLastModification": "2021-08-31 11:00:00-04:00",
+    "categories": [
+        "coding events"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./code_together.jpeg"
+        }
+    ]
+}

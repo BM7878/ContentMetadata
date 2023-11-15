@@ -1,0 +1,28 @@
+{
+    "title": "PennyLane Code Together",
+    "authors": [
+        {
+            "name": "Antal Szava",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "code together",
+        "pennylane",
+        "swag",
+        "hacking",
+        "community calls"
+    ],
+    "description": "Announcing PennyLane: Code Together \ud83d\ude4c\ud83d\ude4c This is your chance to join the quantum software community, supercharge your coding skills, interact with the PennyLane team, and\u2014most importantly\u2014win some awesome swag! Join us on GitHub August 16th-27th. Participation is simple: be the first to solve an open issue with the label ...",
+    "dateOfPublication": "2021-07-27 09:46:00-04:00",
+    "dateOfLastModification": "2021-07-27 09:46:00-04:00",
+    "categories": [
+        "coding events"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./code_together.jpg"
+        }
+    ]
+}

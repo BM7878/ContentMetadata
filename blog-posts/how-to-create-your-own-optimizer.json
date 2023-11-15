@@ -1,0 +1,28 @@
+{
+    "title": "How to create your own optimizer",
+    "authors": [
+        {
+            "name": "Luis Mantilla Calderon",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "qml",
+        "variational algorithms",
+        "optimizers",
+        "customization",
+        "pennylane"
+    ],
+    "description": "In quantum machine learning (QML), we need to optimize parameters of a variational quantum ansatz to minimize some specified cost function. How we choose to optimize the parameters is one of the key steps of every QML workflow. Specifically, the choice of different optimizers can highly influence the parameters obtained after an optimization routine. For this reason, in this How-to blog, we will learn how to implement our own custom-built optimizer.",
+    "dateOfPublication": "2022-07-11 15:00:00-04:00",
+    "dateOfLastModification": "2022-07-11 15:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./how-to-own-optimizers-pic.jpg"
+        }
+    ]
+}

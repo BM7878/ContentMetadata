@@ -1,0 +1,26 @@
+{
+    "title": "How to embed data into a quantum state",
+    "authors": [
+        {
+            "name": "Isidor Schoch",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "data embedding",
+        "qml",
+        "pennylane"
+    ],
+    "description": "In this how-to, we will explore a few methods to encode different types of data in a quantum computer.",
+    "dateOfPublication": "2022-08-02 12:00:00-04:00",
+    "dateOfLastModification": "2022-08-02 12:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./embedding_picture.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "QHack\u2014the quantum machine learning hackathon",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "qhack",
+        "hacking",
+        "hackathon",
+        "pennylane",
+        "aws",
+        "floq",
+        "swag",
+        "community",
+        "coding challenges"
+    ],
+    "description": "Part hackathon, part fan expo, part scientific conference, QHack offered a new kind of experience in the quantum space. Like all the best events, it had a teaser trailer, a vintage poster, its own theme music (imagine Daft Punk remixed the Knight Rider intro music), and a top-notch swag game ...",
+    "dateOfPublication": "2021-03-30 10:20:00-04:00",
+    "dateOfLastModification": "2021-03-30 10:20:00-04:00",
+    "categories": [
+        "qhack"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./qhack2021.jpeg"
+        }
+    ]
+}

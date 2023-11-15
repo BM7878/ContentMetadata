@@ -1,0 +1,26 @@
+{
+    "title": "Lightning-fast simulations with PennyLane and the NVIDIA cuQuantum SDK",
+    "authors": [
+        {
+            "name": "Lee J. O'Riordan",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "nvidia",
+        "pennylane",
+        "plugins"
+    ],
+    "description": "Learn how PennyLane\u2019s lightning.gpu device uses the NVIDIA cuQuantum SDK to speed up the simulation of quantum circuits.",
+    "dateOfPublication": "2022-07-12 09:00:00-04:00",
+    "dateOfLastModification": "2022-07-12 09:00:00-04:00",
+    "categories": [
+        "plugins"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./lightning_hero.png"
+        }
+    ]
+}

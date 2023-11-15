@@ -1,0 +1,25 @@
+{
+    "title": "PennyLane v0.22 released",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "release"
+    ],
+    "description": "PennyLane v0.22 is out, with features including executing large circuits with fewer qubits, differentiable mid-circuit measurements, a new high-performance GPU simulator, tools for quantum debugging, and more.",
+    "dateOfPublication": "2022-03-15 00:00:00-04:00",
+    "dateOfLastModification": "2022-03-15 00:00:00-04:00",
+    "categories": [
+        "releases"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./v0.22.png"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Why measuring performance is our biggest blind spot in quantum machine learning",
+    "authors": [
+        {
+            "name": "Maria Schuld",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "quantum algorithms",
+        "qml",
+        "opinion"
+    ],
+    "description": "Benchmarks, exponential speedups, expressivity\u2026the question of how we measure if a quantum machine learning method is \u201cgood\u201d can be a lot more tricky than one may think.",
+    "dateOfPublication": "2022-03-07 21:51:00-05:00",
+    "dateOfLastModification": "2022-03-07 21:51:00-05:00",
+    "categories": [
+        "qml"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./blindfold.png"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "How to add custom gates and templates to PennyLane",
+    "authors": [
+        {
+            "name": "David Wierichs",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "gates",
+        "templates",
+        "customization",
+        "pennylane"
+    ],
+    "description": "Implementing your own gates in PennyLane does not require deep manipulation of the code base but is as easy as listing some core properties of the operation to be added. Even easier, you can construct your own templates to create structured special purpose circuits and simplify your workflow.",
+    "dateOfPublication": "2021-05-14 15:57:00-04:00",
+    "dateOfLastModification": "2021-05-14 15:57:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": []
+}

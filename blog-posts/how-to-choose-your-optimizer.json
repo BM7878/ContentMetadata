@@ -1,0 +1,26 @@
+{
+    "title": "How to choose your optimizer",
+    "authors": [
+        {
+            "name": "Davide Castaldo",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "variational algorithms",
+        "optimizers",
+        "pennylane"
+    ],
+    "description": "Variational hybrid algorithms often task a quantum processor to prepare, parametrically, a quantum state and a classical computer to optimize these parameters. Whether you are looking for the ground state of a molecule or training a quantum neural network this how-to will guide you through the choice of the most convenient optimizer featured in PennyLane.",
+    "dateOfPublication": "2022-06-13 17:31:00-04:00",
+    "dateOfLastModification": "2022-06-13 17:31:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./how-to-choose-optimizer.png"
+        }
+    ]
+}

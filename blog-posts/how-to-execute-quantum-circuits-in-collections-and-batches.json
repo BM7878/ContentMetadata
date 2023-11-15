@@ -1,0 +1,26 @@
+{
+    "title": "How to execute quantum circuits in collections and batches",
+    "authors": [
+        {
+            "name": "Carlos E. Lopetegui Gonzalez",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "batches and collections",
+        "quantum circuits",
+        "pennylane"
+    ],
+    "description": "In this how-to, we will learn about the best practices in PennyLane to deal with batches and collections of circuits.",
+    "dateOfPublication": "2022-10-24 00:00:00-04:00",
+    "dateOfLastModification": "2022-10-24 00:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./batches_image.jpeg"
+        }
+    ]
+}

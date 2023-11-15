@@ -1,0 +1,33 @@
+{
+    "title": "QHack 2023 Highlights",
+    "authors": [
+        {
+            "name": "Lara Watson",
+            "nameSuffix": ""
+        }
+    ],
+    "tags": [
+        "qhack",
+        "hacking",
+        "hackathon",
+        "coding challenges",
+        "pennylane",
+        "aws",
+        "ibm quantum",
+        "nvidia",
+        "swag",
+        "community"
+    ],
+    "description": "Today we are announcing the winners of QHack 2023, a free event running from February 13th\u201328th, and featuring top-notch scientific talks, an array of coding challenges and an open hackathon.",
+    "dateOfPublication": "2023-04-05 00:00:00-05:00",
+    "dateOfLastModification": "2023-04-05 00:00:00-05:00",
+    "categories": [
+        "qhack"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./QHack2023_closing.png"
+        }
+    ]
+}

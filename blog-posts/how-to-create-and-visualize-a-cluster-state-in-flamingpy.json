@@ -1,0 +1,28 @@
+{
+    "title": "How to create and visualize a cluster state in FlamingPy",
+    "authors": [
+        {
+            "name": "Joost Bus",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "flamingpy",
+        "cluster states",
+        "visualization",
+        "noise",
+        "measurements"
+    ],
+    "description": "A short introduction to using FlamingPy for creating and visualizing cluster states that are relevant in measurement-based quantum computing.",
+    "dateOfPublication": "2022-07-04 19:20:00-04:00",
+    "dateOfLastModification": "2022-07-04 19:20:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./flaming_pie_new.png"
+        }
+    ]
+}

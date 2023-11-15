@@ -1,0 +1,29 @@
+{
+    "title": "How to calculate the Hessian of a classical-quantum hybrid model",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "gradients",
+        "tensorflow",
+        "pytorch",
+        "autograd",
+        "qml",
+        "pennylane"
+    ],
+    "description": "PennyLane QNodes don\u2019t just support computing the derivative\u2014they also support computing the second derivative. Further, the second derivative can be computed on both simulators and quantum hardware. In this how-to, we\u2019ll show you how you can extract the Hessian of a hybrid model using PennyLane in three ...",
+    "dateOfPublication": "2021-04-06 17:24:00-04:00",
+    "dateOfLastModification": "2021-04-06 17:24:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./hessian.png"
+        }
+    ]
+}

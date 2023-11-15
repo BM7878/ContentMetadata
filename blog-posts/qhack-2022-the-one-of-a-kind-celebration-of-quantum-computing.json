@@ -1,0 +1,32 @@
+{
+    "title": "QHack 2022 - the one-of-a-kind celebration of quantum computing",
+    "authors": [
+        {
+            "name": "Lara Watson",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "qhack",
+        "hacking",
+        "hackathon",
+        "pennylane",
+        "aws",
+        "ibm quantum",
+        "swag",
+        "community",
+        "coding challenges"
+    ],
+    "description": "Every year, QHack brings together people from all over the world to celebrate quantum computing. QHack 2022 was bigger, better, and groovier than ever; featuring world-class live stream talks, coding challenges, an open-hackathon, a design competition, a meme contest, and life-changing prizes. Read on for: QHack 2022 at a glance \u2026",
+    "dateOfPublication": "2022-03-28 17:00:00-04:00",
+    "dateOfLastModification": "2022-03-28 17:00:00-04:00",
+    "categories": [
+        "qhack"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./QHack_Poster_2.png"
+        }
+    ]
+}

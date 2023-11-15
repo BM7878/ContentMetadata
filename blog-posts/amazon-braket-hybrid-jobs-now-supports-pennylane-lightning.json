@@ -1,0 +1,27 @@
+{
+    "title": "Amazon Braket Hybrid Jobs now supports PennyLane Lightning",
+    "authors": [
+        {
+            "name": "Catalina Albornoz",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "aws",
+        "pennylane",
+        "hardware",
+        "plugins"
+    ],
+    "description": "We are excited to announce that our high-performance simulators lightning.qubit and lightning.gpu are now supported on Amazon Braket Hybrid Jobs! \ud83c\udf89 With Amazon Braket Hybrid jobs, you can run hybrid algorithms using PennyLane without needing to manage the underlying infrastructure. Whether you\u2019re using a notebook instance, a local \u2026",
+    "dateOfPublication": "2022-05-05 12:00:00-04:00",
+    "dateOfLastModification": "2022-05-05 12:00:00-04:00",
+    "categories": [
+        "plugins"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./pl-braket.jpeg"
+        }
+    ]
+}

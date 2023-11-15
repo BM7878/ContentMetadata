@@ -1,0 +1,28 @@
+{
+    "title": "How to create your own device in PennyLane",
+    "authors": [
+        {
+            "name": "Maurice Weber",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "device",
+        "plugins",
+        "pennylane",
+        "customization",
+        "quantum computing"
+    ],
+    "description": "In this how-to we show how to use PennyLane to create your own custom devices with a simple one-qubit example.",
+    "dateOfPublication": "2022-09-23 14:00:00-04:00",
+    "dateOfLastModification": "2022-09-23 14:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./how-to-create-custom-device.png"
+        }
+    ]
+}

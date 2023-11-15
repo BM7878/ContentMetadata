@@ -1,0 +1,29 @@
+{
+    "title": "PennyLane v0.24 released",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        },
+        {
+            "name": "Isaac De Vlugt",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "release"
+    ],
+    "description": "PennyLane v0.24 is out, with features including a brand new quantum information module, parameter broadcasting, improvements to the JAX JIT interface, and more.",
+    "dateOfPublication": "2022-06-21 00:00:00-04:00",
+    "dateOfLastModification": "2022-06-21 00:00:00-04:00",
+    "categories": [
+        "releases"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./v0.24.png"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "From NISQ to ISQ",
+    "authors": [
+        {
+            "name": "Juan Miguel Arrazola",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "quantum chemistry",
+        "quantum computing",
+        "quantum machine learning",
+        "noise",
+        "opinion"
+    ],
+    "description": "In a world where NISQ devices are commonplace and variational algorithms are the go-to for quantum computing, how should we plan for the future? Prepare for the ISQ era with Xanadu's Juan Miguel Arrazola.",
+    "dateOfPublication": "2023-06-21 00:00:00-05:00",
+    "dateOfLastModification": "2023-06-21 00:00:00-05:00",
+    "categories": [
+        "algorithms"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./thumbnail_NISQ_to_ISQ.png"
+        }
+    ]
+}

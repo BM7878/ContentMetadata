@@ -1,0 +1,21 @@
+{
+    "title": "Quantum computing for quantum chemistry: a brief perspective",
+    "authors": [
+        {
+            "name": "Juan Miguel Arrazola",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "quantum chemistry",
+        "quantum computing",
+        "opinion"
+    ],
+    "description": "We share two short lessons regarding the leading quantum algorithms for quantum chemistry: the variational quantum eigensolver and quantum phase estimation.",
+    "dateOfPublication": "2021-11-24 00:00:00-05:00",
+    "dateOfLastModification": "2021-11-24 00:00:00-05:00",
+    "categories": [
+        "quantum chemistry"
+    ],
+    "previewImages": []
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Computing adjoint gradients with Amazon Braket SV1",
+    "authors": [
+        {
+            "name": "Katharine Hyatt",
+            "nameSuffix": "(Amazon Braket)"
+        },
+        {
+            "name": "Daniela Becker",
+            "nameSuffix": "(Amazon Braket)"
+        }
+    ],
+    "tags": [
+        "aws",
+        "amazon braket",
+        "pennylane",
+        "gradients"
+    ],
+    "description": "Katharine Hyatt (Scientist @ Amazon Braket) and Daniela Becker (Senior Product Manager @ Amazon Braket) demonstrate how using the adjoint differentiation method on SV1 can deliver a strong performance improvement in finding molecular ground state energies.",
+    "dateOfPublication": "2022-12-09 00:00:00-05:00",
+    "dateOfLastModification": "2022-12-09 00:00:00-05:00",
+    "categories": [
+        "announcements"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./plbraket.png"
+        }
+    ]
+}

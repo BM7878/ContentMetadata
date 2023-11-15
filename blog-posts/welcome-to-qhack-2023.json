@@ -1,0 +1,30 @@
+{
+    "title": "Welcome to QHack 2023!",
+    "authors": [
+        {
+            "name": "Lara Watson",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "qhack",
+        "hacking",
+        "hackathon",
+        "coding challenges",
+        "pennylane",
+        "swag",
+        "community"
+    ],
+    "description": "QHack 2023 is a free event running from February 13th\u201328th, and featuring top-notch scientific talks, an array of coding challenges and an open hackathon.",
+    "dateOfPublication": "2023-02-13 00:00:00-05:00",
+    "dateOfLastModification": "2023-02-13 00:00:00-05:00",
+    "categories": [
+        "qhack"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./QHack2023_PennyLane_logo.png"
+        }
+    ]
+}

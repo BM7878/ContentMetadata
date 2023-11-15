@@ -1,0 +1,27 @@
+{
+    "title": "How to get Device and Circuit Information",
+    "authors": [
+        {
+            "name": "Anuj Apte",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "device",
+        "quantum circuits",
+        "qml",
+        "pennylane"
+    ],
+    "description": "PennyLane v0.26 is out, with features including classical shadows, qutrits, the QNSPSA optimizer, and more.",
+    "dateOfPublication": "2022-10-03 00:00:00-04:00",
+    "dateOfLastModification": "2022-10-03 00:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./device_info.jpeg"
+        }
+    ]
+}

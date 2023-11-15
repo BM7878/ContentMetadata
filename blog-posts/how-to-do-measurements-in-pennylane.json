@@ -1,0 +1,25 @@
+{
+    "title": "How to do measurements in PennyLane",
+    "authors": [
+        {
+            "name": "Joana Fraxanet",
+            "nameSuffix": "(Xanadu resident)"
+        }
+    ],
+    "tags": [
+        "measurements",
+        "pennylane"
+    ],
+    "description": "When using PennyLane to design quantum circuits we need to consider both the sequence of gates that we want to apply and also the kind of output that we want to obtain. At the end of the day, we will get back a quantity through a specific measurement. In this how-to, we go through the different type of measurements offered by PennyLane and we discuss when to use them.",
+    "dateOfPublication": "2022-06-27 17:00:00-04:00",
+    "dateOfLastModification": "2022-06-27 17:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./measurement.png"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "How to simulate noise with PennyLane",
+    "authors": [
+        {
+            "name": "David Wakeham",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "noise",
+        "pennylane"
+    ],
+    "description": "Near-term quantum devices are noisy, a fact we need to account for in our simulations. In this how-to guide, we give three simple methods for simulating noise: classical jitter, built-in PennyLane support for mixed states and quantum channels, and finally plugins to Cirq and Qiskit.",
+    "dateOfPublication": "2021-05-14 09:21:00-04:00",
+    "dateOfLastModification": "2021-05-14 09:21:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": []
+}

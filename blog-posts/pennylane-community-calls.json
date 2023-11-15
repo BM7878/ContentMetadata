@@ -1,0 +1,28 @@
+{
+    "title": "PennyLane Community Calls",
+    "authors": [
+        {
+            "name": "Romain Moyard",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "community calls",
+        "pennylane",
+        "hacking",
+        "community",
+        "unitary fund"
+    ],
+    "description": "Want to get involved with quantum open-source software, but don\u2019t know how to begin? Good news: the PennyLane team will now be offering a regular series of community calls to help you on your journey. Each week, join the PennyLane dev team, along with our growing network of contributors \u2026",
+    "dateOfPublication": "2021-07-28 09:55:00-04:00",
+    "dateOfLastModification": "2021-07-28 09:55:00-04:00",
+    "categories": [
+        "community"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./community-calls.png"
+        }
+    ]
+}

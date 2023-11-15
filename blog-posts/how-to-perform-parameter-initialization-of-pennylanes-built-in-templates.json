@@ -1,0 +1,21 @@
+{
+    "title": "How to perform parameter initialization of PennyLane\u2019s built-in templates",
+    "authors": [
+        {
+            "name": "Elies Gil-Fuster",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "gradients",
+        "templates",
+        "pennylane"
+    ],
+    "description": "QML algorithms often involve a set of trainable parameters, in most cases, these parameters need to be initialized in a certain fashion before, say, starting a gradient descent. In this how-to, we\u2019ll see how to do precisely that.",
+    "dateOfPublication": "2021-05-15 00:37:00-04:00",
+    "dateOfLastModification": "2021-05-15 00:37:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": []
+}

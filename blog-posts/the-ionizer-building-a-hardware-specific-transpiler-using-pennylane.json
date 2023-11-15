@@ -1,0 +1,28 @@
+{
+    "title": "The Ionizer: building a hardware-specific transpiler using PennyLane",
+    "authors": [
+        {
+            "name": "Olivia Di Matteo",
+            "nameSuffix": "(Quantum Software and Algorithms Research group, UBC)"
+        }
+    ],
+    "tags": [
+        "transforms",
+        "hardware",
+        "transpiling",
+        "pennylane",
+        "ionq"
+    ],
+    "description": "Use PennyLane transforms to build a custom transpiler for trapped-ion hardware with The Ionizer, a new package currently developed at The University of British Columbia.",
+    "dateOfPublication": "2023-06-13 00:00:00-05:00",
+    "dateOfLastModification": "2023-06-13 00:00:00-05:00",
+    "categories": [
+        "plugins"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./ionizer-thumbnail.png"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "PennyLane v0.15 released",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "release"
+    ],
+    "description": "We\u2019re excited to announce PennyLane v0.15, which comes with many new and exciting features. These include a new hardware device integration, more flexible shot control, brand new operations, and new methods for working with more powerful quantum circuits",
+    "dateOfPublication": "2021-04-20 05:00:00-04:00",
+    "dateOfLastModification": "2021-04-20 05:00:00-04:00",
+    "categories": [
+        "releases"
+    ],
+    "previewImages": []
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Taking stock of quantum machine learning\u2014a critical perspective",
+    "authors": [
+        {
+            "name": "Maria Schuld",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "qml",
+        "opinion"
+    ],
+    "description": "PennyLane\u2019s very own Maria Schuld recently gave a talk at the inaugural QML Meetup, summarizing some critical quantum machine learning insights. Check out the video below to learn why variational quantum models have a scaling problem, why the way we encode data must become more than an incidental choice \u2026",
+    "dateOfPublication": "2021-05-07 14:27:00-04:00",
+    "dateOfLastModification": "2021-05-07 14:27:00-04:00",
+    "categories": [
+        "talks"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./hqdefault.jpg"
+        }
+    ]
+}

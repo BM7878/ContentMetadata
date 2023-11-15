@@ -1,0 +1,26 @@
+{
+    "title": "How to parallelize QNode execution",
+    "authors": [
+        {
+            "name": "Brian Doolittle",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "qnodecollection",
+        "dask",
+        "pennylane-qiskit"
+    ],
+    "description": "In PennyLane, QNodeCollection execution can be parallelized across remote devices. In this how-to guide, we demonstrate the advantage of parallel execution through the example of qubit state tomography.",
+    "dateOfPublication": "2021-05-14 00:00:00-04:00",
+    "dateOfLastModification": "2021-05-14 00:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./parallelizing_qnodes.png"
+        }
+    ]
+}

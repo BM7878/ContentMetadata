@@ -1,0 +1,35 @@
+{
+    "title": "Quantum NLP with the lambeq\u2013PennyLane integration",
+    "authors": [
+        {
+            "name": "Charlie London",
+            "nameSuffix": "(Quantinuum)"
+        },
+        {
+            "name": "Thomas Cervoni",
+            "nameSuffix": "(Quantinuum)"
+        },
+        {
+            "name": "Bob Coecke",
+            "nameSuffix": "(Quantinuum)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "lambeq",
+        "quantinuum",
+        "qnlp"
+    ],
+    "description": "The Quantinuum team gives an introduction to quantum natural language processing (QNLP) and showcases the recently published integration between lambeq and PennyLane.",
+    "dateOfPublication": "2023-04-19 00:00:00-05:00",
+    "dateOfLastModification": "2023-04-19 00:00:00-05:00",
+    "categories": [
+        "announcements"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./lambeq-pennylane.png"
+        }
+    ]
+}

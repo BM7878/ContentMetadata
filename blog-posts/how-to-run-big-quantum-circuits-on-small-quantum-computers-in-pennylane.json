@@ -1,0 +1,26 @@
+{
+    "title": "How to run big quantum circuits on small quantum computers in PennyLane",
+    "authors": [
+        {
+            "name": "Radoica Dra\u0161ki\u0107",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "quantum circuits",
+        "qml",
+        "pennylane"
+    ],
+    "description": "Even with a small number of available qubits, large quantum circuits can be cut up into fragments and their results classically recombined into the desired, full computation. In this how-to we present a short introduction to making quantum circuit cuts in PennyLane.",
+    "dateOfPublication": "2023-01-17 00:00:00-05:00",
+    "dateOfLastModification": "2023-01-17 00:00:00-05:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./cutting-a-quantum-circuit.jpg"
+        }
+    ]
+}

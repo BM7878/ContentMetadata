@@ -1,0 +1,25 @@
+{
+    "title": "Introducing Catalyst: quantum just-in-time compilation",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "catalyst",
+        "pennylane"
+    ],
+    "description": "Catalyst, our next-generation compilation engine, brings just-in-time compilation to quantum programming. Automatically compile hybrid programs for execution on CPUs, GPUs, and QPUs, and unlock new ways of programming quantum computers.",
+    "dateOfPublication": "2023-03-07 00:00:00-05:00",
+    "dateOfLastModification": "2023-03-07 00:00:00-05:00",
+    "categories": [
+        "announcements"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./catalyst_thumb.jpg"
+        }
+    ]
+}

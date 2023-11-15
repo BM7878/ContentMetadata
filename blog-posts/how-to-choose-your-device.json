@@ -1,0 +1,27 @@
+{
+    "title": "How to choose your device",
+    "authors": [
+        {
+            "name": "Aleksei Malyshev",
+            "nameSuffix": ""
+        }
+    ],
+    "tags": [
+        "device",
+        "qml",
+        "pytorch",
+        "pennylane"
+    ],
+    "description": "Have you ever wanted to befriend a quantum computer or two? Join us at the PennyLane Device Zoo, a place where everybody can find the right device for their problem and make their code fly!",
+    "dateOfPublication": "2023-01-10 00:00:00-05:00",
+    "dateOfLastModification": "2023-01-10 00:00:00-05:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./how-to-choose-your-device-card.jpg"
+        }
+    ]
+}

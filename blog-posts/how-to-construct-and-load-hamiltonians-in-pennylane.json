@@ -1,0 +1,26 @@
+{
+    "title": "How to construct and load Hamiltonians in PennyLane",
+    "authors": [
+        {
+            "name": "Roeland Wiersema",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "hamiltonians",
+        "vqe",
+        "pennylane"
+    ],
+    "description": "Constructing different types of Hamiltonians is easy in PennyLane. In this how-to, we will show you how to easily create Hamiltonians for problems in combinatorial optimization, quantum many-body physics and quantum chemistry.",
+    "dateOfPublication": "2021-05-14 00:00:00-04:00",
+    "dateOfLastModification": "2021-05-14 00:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./vqe.png"
+        }
+    ]
+}

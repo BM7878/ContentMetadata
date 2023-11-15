@@ -1,0 +1,27 @@
+{
+    "title": "Using PennyLane and Strawberry Fields to run programs on Xanadu hardware",
+    "authors": [
+        {
+            "name": "Jack Ceroni",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "qml",
+        "pennylane",
+        "strawberry fields",
+        "hardware"
+    ],
+    "description": "One of the advantages of PennyLane is that it can be run on many different simulators and real quantum devices from a variety of external providers through our Plugins, as well as Xanadu\u2019s own devices! In this how-to, we will show you how to create a simple program in ...",
+    "dateOfPublication": "2021-05-14 10:06:00-04:00",
+    "dateOfLastModification": "2021-05-14 10:06:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./xanadu_cloud.png"
+        }
+    ]
+}

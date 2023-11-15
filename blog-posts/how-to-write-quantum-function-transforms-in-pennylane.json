@@ -1,0 +1,25 @@
+{
+    "title": "How to write quantum function transforms in PennyLane",
+    "authors": [
+        {
+            "name": "Olivia Di Matteo",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "transforms",
+        "pennylane"
+    ],
+    "description": "Quantum transforms are an exciting new feature of PennyLane. Learn how transforms can help you construct and manipulate quantum functions with ease!",
+    "dateOfPublication": "2021-08-19 17:24:00-04:00",
+    "dateOfLastModification": "2021-08-19 17:24:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./tape_transform_none.png"
+        }
+    ]
+}

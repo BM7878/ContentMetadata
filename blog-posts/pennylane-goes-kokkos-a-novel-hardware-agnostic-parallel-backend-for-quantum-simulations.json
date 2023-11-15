@@ -1,0 +1,35 @@
+{
+    "title": "PennyLane goes Kokkos: A novel hardware-agnostic parallel backend for quantum simulations",
+    "authors": [
+        {
+            "name": "Lee J. O'Riordan",
+            "nameSuffix": "(PennyLane Team)"
+        },
+        {
+            "name": "Shuli Shu",
+            "nameSuffix": "(PennyLane Team)"
+        },
+        {
+            "name": "Vincent Michaud-Rioux",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "lightning",
+        "kokkos",
+        "hpc"
+    ],
+    "description": "The PennyLane team announces lightning.kokkos, a hardware-agnostic simulator device built atop Kokkos, with support for both CPU- and GPU-based systems.",
+    "dateOfPublication": "2023-04-25 00:00:00-05:00",
+    "dateOfLastModification": "2023-04-25 00:00:00-05:00",
+    "categories": [
+        "announcements"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./pennylane-lightning-kokkos.png"
+        }
+    ]
+}

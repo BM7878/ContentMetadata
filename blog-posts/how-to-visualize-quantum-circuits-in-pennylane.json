@@ -1,0 +1,26 @@
+{
+    "title": "How to visualize quantum circuits in PennyLane",
+    "authors": [
+        {
+            "name": "Yuan Yao",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "visualization",
+        "quantum circuits",
+        "pennylane"
+    ],
+    "description": "Already built your fancy quantum circuit and wanna have a look at it? PennyLane supports visualizing quantum circuits once you have defined them.",
+    "dateOfPublication": "2021-05-14 09:42:00-04:00",
+    "dateOfLastModification": "2021-05-14 09:42:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./visualize_image.png"
+        }
+    ]
+}

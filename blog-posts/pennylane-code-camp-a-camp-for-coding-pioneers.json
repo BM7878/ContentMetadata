@@ -1,0 +1,27 @@
+{
+    "title": "PennyLane Code Camp \u2014 A camp for coding pioneers",
+    "authors": [
+        {
+            "name": "Ivana Kure\u010di\u0107",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "community",
+        "swag",
+        "coding challenges"
+    ],
+    "description": "The PennyLane Code Camp, our virtual trip to the great outdoors has started! For the next three weeks, quantum coders will test their skills against increasingly difficult coding challenges to learn, earn badges and compete for prizes.",
+    "dateOfPublication": "2022-11-01 00:00:00-04:00",
+    "dateOfLastModification": "2022-11-01 00:00:00-04:00",
+    "categories": [
+        "coding events"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./PennyLane_laptop.png"
+        }
+    ]
+}

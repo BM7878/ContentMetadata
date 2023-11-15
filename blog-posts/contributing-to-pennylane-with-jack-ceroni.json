@@ -1,0 +1,25 @@
+{
+    "title": "Contributing to PennyLane with Jack Ceroni",
+    "authors": [
+        {
+            "name": "Jack Ceroni",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "qml",
+        "pennylane"
+    ],
+    "description": "Interested in hearing more about what it\u2019s like to develop PennyLane? On the latest Quantum Computing Now podcast, Ethan Hansen sits down with PennyLane developer Jack Ceroni to hear about his experiences getting started with quantum, how he got into quantum software development, and answer the question \u201cwhat in \u2026",
+    "dateOfPublication": "2021-05-04 12:57:00-04:00",
+    "dateOfLastModification": "2021-05-04 12:57:00-04:00",
+    "categories": [
+        "talks"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./jack.jpeg"
+        }
+    ]
+}

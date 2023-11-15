@@ -1,0 +1,26 @@
+{
+    "title": "QHack QML Challenge Walkthrough: Variational Quantum Eigensolver",
+    "authors": [
+        {
+            "name": "Olivia Di Matteo",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "qhack",
+        "pennylane",
+        "vqe"
+    ],
+    "description": "QHack 2021, the quantum machine learning (QML) hackathon, ran earlier this year from 17-26 February. A big portion of the event was the QML Challenge Leaderboard, where hundreds of teams raced to solve QML programming problems in order to claim hardware credits to help with their Open Hackathon projects. Solutions ...",
+    "dateOfPublication": "2021-04-23 08:50:00-04:00",
+    "dateOfLastModification": "2021-04-23 08:50:00-04:00",
+    "categories": [
+        "qhack"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./qhack_vqe.png"
+        }
+    ]
+}

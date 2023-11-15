@@ -1,0 +1,20 @@
+{
+    "title": "PennyLane v0.17 released",
+    "authors": [
+        {
+            "name": "Josh Izaac",
+            "nameSuffix": "(PennyLane Team)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "release"
+    ],
+    "description": "We\u2019re excited to announce PennyLane v0.17. It\u2019s more powerful than ever with support for circuit compilation routines, gradient transforms, Docker containerization, along with many new and improved templates, optimizers, and quality-of-life updates.",
+    "dateOfPublication": "2021-07-28 09:55:00-04:00",
+    "dateOfLastModification": "2021-07-28 09:55:00-04:00",
+    "categories": [
+        "releases"
+    ],
+    "previewImages": []
+}

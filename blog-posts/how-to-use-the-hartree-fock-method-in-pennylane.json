@@ -1,0 +1,27 @@
+{
+    "title": "How to use the Hartree-Fock method in PennyLane",
+    "authors": [
+        {
+            "name": "Matija Medvidovi\u0107",
+            "nameSuffix": "(Xanadu Resident)"
+        }
+    ],
+    "tags": [
+        "qml",
+        "pennylane",
+        "quantum circuits",
+        "quantum chemistry"
+    ],
+    "description": "Hartree-Fock is a standard classical state-preparation step for running quantum chemistry workflows. This post goes through how to make the process painless with PennyLane!",
+    "dateOfPublication": "2022-09-12 11:00:00-04:00",
+    "dateOfLastModification": "2022-09-12 11:00:00-04:00",
+    "categories": [
+        "how-to"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./electron-drawing.png"
+        }
+    ]
+}

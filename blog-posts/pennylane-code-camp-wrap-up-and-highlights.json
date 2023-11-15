@@ -1,0 +1,27 @@
+{
+    "title": "PennyLane Code Camp wrap-up and highlights",
+    "authors": [
+        {
+            "name": "Lara Watson",
+            "nameSuffix": "(Xanadu)"
+        }
+    ],
+    "tags": [
+        "pennylane",
+        "community",
+        "swag",
+        "coding challenges"
+    ],
+    "description": "In celebration of PennyLane\u2019s fourth birthday, more than 800 coders from over 70 different countries joined us for the first-ever PennyLane Code Camp \u2014 a three-week virtual trip to the great outdoors \u2014 to tackle increasingly difficult quantum coding challenges and compete for prizes.",
+    "dateOfPublication": "2022-11-24 00:00:00-05:00",
+    "dateOfLastModification": "2022-11-24 00:00:00-05:00",
+    "categories": [
+        "coding events"
+    ],
+    "previewImages": [
+        {
+            "type": "thumbnail",
+            "uri": "./data_window.png"
+        }
+    ]
+}
